@@ -1,0 +1,24 @@
+{
+    "name": "flocking-midi",
+    "version": "0.1.0",
+    "description": "A collection of MIDI components for Infusion",
+    "author": "Colin Clark",
+    "homepage": "https://github.com/colinbdclark/flocking-midi",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/colinbdclark/flocking-midi.git"
+    },
+    "bugs": "https://github.com/colinbdclark/flocking-midi/issues",
+    "license": "MIT",
+    "keywords": [
+        "midi",
+        "webmidi",
+        "music"
+    ],
+    "readmeFilename": "README.md",
+    "devDependencies": {
+        "grunt": "1.0.1",
+        "eslint-config-fluid": "1.0.0",
+        "fluid-grunt-eslint": "18.1.2"
+    }
+}

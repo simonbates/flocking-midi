@@ -1,0 +1,16 @@
+{
+    "extends": "eslint-config-fluid",
+
+    "env": {
+        "jquery": false
+    },
+
+    "globals": {
+        "flock": true,
+        "fluid": true
+    },
+
+    "rules": {
+        "strict": ["error", "global"]
+    }
+}
